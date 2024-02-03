@@ -8,7 +8,7 @@
 
 ## Scrape Cronometer nutrition data
 
-- https://github.com/bdero/cronometer-scrape
+- [Cronometer Scrape: GitHub project](https://github.com/bdero/cronometer-scrape)
 - Must use CRDB since the most information will be there
 - OR scrape from Atlantic Superstore directly as well
 
@@ -19,3 +19,5 @@
 ## Optimization with Julia and JuMP
 
 - Code analysis and optimization with Julia and JuMP
+- [The diet problem, JuMP documentation](https://jump.dev/JuMP.jl/stable/tutorials/linear/diet/)
+- [Optimizing your diet with JuMP, blogpost](https://www.juliabloggers.com/optimizing-your-diet-with-jump-2/)
