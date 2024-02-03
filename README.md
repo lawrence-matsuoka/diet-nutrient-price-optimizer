@@ -1,5 +1,10 @@
 # diet-nutrient-price-optimizer
 
+## Put all data into SQL database instead of just a .csv
+
+- [When to use CSV vs Database](https://www.reddit.com/r/learnpython/comments/110mqci/when_to_use_csv_vs_database/)
+- Nutrition table, macros table, high in carbs/protein/carbs table, prices have one column at the end
+
 ## Scrape Atlantic Superstore grocery prices
 
 - Scrape the only the grocery prices
