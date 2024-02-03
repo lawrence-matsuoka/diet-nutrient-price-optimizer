@@ -22,4 +22,4 @@
 - [The diet problem, JuMP documentation](https://jump.dev/JuMP.jl/stable/tutorials/linear/diet/)
 - [Optimizing your diet with JuMP, blogpost](https://www.juliabloggers.com/optimizing-your-diet-with-jump-2/)
 
-## Use Optimizer like GLPK
+## Use Optimizer like GLPK or HiGHS or other Linear Programming software
